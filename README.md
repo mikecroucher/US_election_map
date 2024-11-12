@@ -1,7 +1,7 @@
 # Demo for plotting US election map in MATLAB
 This started off as a request from Jerb on BlueSky: https://bsky.app/profile/jerbivore.bsky.social/post/3larei7t4ps2g 
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mikecroucher/US_election_map&file=dem.mlx)- Click on this to open an editable, runnable version of the code in MATLAB Online
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mikecroucher/US_election_map&file=demo.mlx)- Click on this to open an editable, runnable version of the code in MATLAB Online
 
 Requires [Mapping Toolbox](https://uk.mathworks.com/products/mapping.html)
 
